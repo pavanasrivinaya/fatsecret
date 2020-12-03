@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html {{ HTML_ATTRS }}>
+  <head {{ HEAD_ATTRS }}>
+    {{ HEAD }}
+    <script src="https://platform.fatsecret.com/js?key=be872484fecb4fb6953176bfa699d394&theme=green&auto_load=true"></script>
+    <script>
+      fatsecret.variables.navOptions = fatsecret.navFeatures.home | fatsecret.navFeatures.diet_calendar;
+      </script>
+      <script>
+        function doLoad(){
+          fatsecret.setContainer("my_container");
+          fatsecret.setCanvas("home");
+        }
+      </script>
+      <span id="food_title"></span>
+      <div id="nutrition_panel"></div>
+      
+      <script>
+      fatsecret.addRef("foodtitle", "food_title");
+      fatsecret.addRef("nutritionpanel", "nutrition_panel");
+      </script>
+      <script>fatsecret.writeHolder("foodtitle");</script>
+      <script>fatsecret.writeHolder("nutritionpanel");</script>
+  </head>
+  <body {{ BODY_ATTRS }} onload="doLoad()">
+    {{ APP }}
+  </body>
+</html>
