@@ -3,28 +3,24 @@
     "name": "inspire",
     "path": "/inspire",
     "component": "F:\\\\nuxt\\\\fatsecret\\\\fatsecret\\\\pages\\\\inspire.vue",
-    "chunkName": "pages/inspire",
-    "_name": "_bbe3ed0a"
+    "chunkName": "pages/inspire"
   },
   {
     "name": "simple",
     "path": "/simple",
     "component": "F:\\\\nuxt\\\\fatsecret\\\\fatsecret\\\\pages\\\\simple.vue",
-    "chunkName": "pages/simple",
-    "_name": "_469bd5be"
+    "chunkName": "pages/simple"
   },
   {
     "name": "todo",
     "path": "/todo",
     "component": "F:\\\\nuxt\\\\fatsecret\\\\fatsecret\\\\pages\\\\todo.vue",
-    "chunkName": "pages/todo",
-    "_name": "_c4952916"
+    "chunkName": "pages/todo"
   },
   {
     "name": "index",
     "path": "/",
     "component": "F:\\\\nuxt\\\\fatsecret\\\\fatsecret\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_4507b1b3"
+    "chunkName": "pages/index"
   }
 ]
