@@ -1,26 +1,16 @@
 [
   {
-    "name": "inspire",
-    "path": "/inspire",
-    "component": "F:\\\\nuxt\\\\fatsecret\\\\fatsecret\\\\pages\\\\inspire.vue",
-    "chunkName": "pages/inspire"
-  },
-  {
-    "name": "simple",
-    "path": "/simple",
-    "component": "F:\\\\nuxt\\\\fatsecret\\\\fatsecret\\\\pages\\\\simple.vue",
-    "chunkName": "pages/simple"
+    "name": "food",
+    "path": "/food",
+    "component": "F:\\\\nuxt\\\\fatsecret\\\\fatsecret\\\\pages\\\\food.vue",
+    "chunkName": "pages/food",
+    "_name": "_018f438d"
   },
   {
     "name": "todo",
     "path": "/todo",
     "component": "F:\\\\nuxt\\\\fatsecret\\\\fatsecret\\\\pages\\\\todo.vue",
-    "chunkName": "pages/todo"
-  },
-  {
-    "name": "index",
-    "path": "/",
-    "component": "F:\\\\nuxt\\\\fatsecret\\\\fatsecret\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/todo",
+    "_name": "_c4952916"
   }
 ]

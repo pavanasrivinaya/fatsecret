@@ -1,0 +1,145 @@
+.v-toolbar__title{
+  text-align:center;
+  margin-left: 200px;
+}
+#fatsecret_nav {
+  display: none;
+}
+ #fatsecret_heading{
+  visibility: visible; 
+    position: absolute; 
+  content: "Food Search" !important;
+} 
+.fatsecret_heading {
+  display: none !important;
+}
+.fatsecret_container {
+   border: none;
+}
+.fatsecret_subheading .fatsecret_home_heading {
+  display: none !important;
+}
+.fatsecret_home_summary {
+  display: none;
+}
+.fatsecret_footer {
+  display: none;
+}
+.fatsecret_subheading.fatsecret_home_heading {
+display: none;
+}
+.fatsecret_container input.fatsecret_button{
+display: inline-block !important;
+border-radius: 10px !important;
+background-color: black !important;
+border: none !important;
+color: #FFFFFF !important;
+text-align: center !important;
+font-size: 15px !important;
+width: 100px !important;
+transition: all 0.5s !important;
+cursor: pointer !important;
+margin: 5px !important;
+content: "Search for food";
+visibility: visible;
+height: 25px;
+}
+/* .fatsecret_home_search_input #name {
+border-style: solid !important;
+background-color: black;
+} */
+button, input, select, textarea {
+border-style: solid !important;
+background-color: none !important;
+border: 1px solid #ccc;  
+width: 100%;
+box-sizing: border-box;
+border: 2px solid #ccc;
+border-radius: 4px;
+font-size: 16px;
+background-color: white;
+background-position: 10px 10px; 
+background-repeat: no-repeat;
+padding: 12px 20px 12px 40px;
+
+}
+.fatsecret_foodget_right {
+display: none;
+}
+.fatsecret_nutritionpanel {
+border: none !important;
+font-family: Arial, Helvetica, sans-serif;
+border-collapse: collapse;
+width: 100%;
+}
+.fatsecret_nutrition_table
+{
+border-collapse:none !important ;
+width: none !important;
+margin: 0 auto;
+}
+.fatsecret_nutritionpanel tr {
+border: 1px solid #ddd;
+padding: 8px;
+}
+
+.fatsecret_nutritionpanel tr:nth-child(even)
+{
+background-color: #bbafaf;
+}
+
+.fatsecret_nutritionpanel td {
+padding-top: 12px;
+padding-bottom: 12px;
+background-color: white;
+color: black;
+}
+.fatsecret_nutritionpanel_header
+{
+margin-left: 440px;
+}
+span.fatsecret_serving_size_label {
+font-size: 20px;
+margin-left: 15px;
+}
+.fatsecret_amount_per_serving,
+.fatsecret_calories_label,
+.fatsecret_daily_values,
+.fatsecret_lvl_one_label,
+.fatsecret_perc_value {
+font-weight: 600;
+font-size: 15px;
+margin-left: 10px;
+}
+.fatsecret_daily_values {
+margin-right: 10px;
+
+}
+span.fatsecret_perc_value {
+margin-right: 40px;
+}
+.fatsecret_perc {
+margin-right: 20px;
+}
+span.fatsecret_calories_fat_value {
+margin-right: 10px;
+font-size: 15px;
+
+}
+span.fatsecret_calories_fat_label {
+margin-right: 10px;
+font-size: 15px;
+
+}
+span.fatsecret_lvl_two_label {
+margin-left: 10px;
+font-size: 13px;
+}
+span.fatsecret_perc_daily_label {
+margin-left: 10px;
+font-size: 13px;
+}
+table.fatsecret_perc_daily_note_table {
+margin-left: 40px;
+font-size: 18px;
+}
